@@ -1,7 +1,7 @@
 {
   "name": "pdaminiprojetom4",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/server.js",
   "type": "module",
   "scripts": {
     "start": "node src/server.js",
@@ -24,3 +24,5 @@
     "@babel/preset-env": "^7.25.4"
   }
 }
+
+
