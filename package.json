@@ -6,7 +6,8 @@
   "scripts": {
     "start": "react-scripts start",
     "dev": "nodemon src/server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "comando-de-build-aqui"
   },
   "keywords": [],
   "author": "",
@@ -33,4 +34,5 @@
       "last 1 safari version"
     ]
   }
+  
 }
